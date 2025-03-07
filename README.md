@@ -159,7 +159,7 @@ python analysis.py
 ---
 
 ## ✨ Acknowledgments
-Special thanks to the team for their guidance and support. This project was inspired by real-world marketing challenges and aims to bridge the gap between data science and business strategy.
+Special thanks to the mentors for their guidance and support. This project was inspired by real-world marketing challenges and aims to bridge the gap between data science and business strategy.
 
 ---
 
